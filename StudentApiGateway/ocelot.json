@@ -1,0 +1,46 @@
+﻿{
+  "GlobalConfiguration": {
+    "ServiceDiscoveryProvider": {
+      "Host": "localhost",
+      "Port": 9500
+    }
+  },
+  "Routes": [
+    {
+      "UpstreamHttpMethod": [ "Get" ],
+      "UpstreamPathTemplate": "/ApiGateway/StudentsAdmission",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7196
+        }
+      ],
+      "DownstreamPathTemplate": "/api/StudentsAdmission"
+    },
+    {
+      "UpstreamHttpMethod": [ "Get" ],
+      "UpstreamPathTemplate": "/ApiGateway/StudentsAdmission/{id}",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7196
+        }
+      ],
+      "DownstreamPathTemplate": "/api/StudentsAdmission/{id}"
+    },
+    {
+      "UpstreamHttpMethod": [ "Get", "Post" ],
+      "UpstreamPathTemplate": "/ApiGateway/StudentsAttendance",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7107
+        }
+      ],
+      "DownstreamPathTemplate": "/api/StudentsAttendance"
+    }
+  ]
+}
