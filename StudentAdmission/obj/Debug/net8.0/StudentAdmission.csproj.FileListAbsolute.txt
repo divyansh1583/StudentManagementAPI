@@ -31,3 +31,5 @@ C:\Users\divyansh.chauhan\Desktop\DC\Angular+.NET+MSSQL\Angular18\StudentManagem
 C:\Users\divyansh.chauhan\Desktop\DC\Angular+.NET+MSSQL\Angular18\StudentManagementApp\StudentManagementAPI\StudentAdmission\obj\Debug\net8.0\StudentAdmission.pdb
 C:\Users\divyansh.chauhan\Desktop\DC\Angular+.NET+MSSQL\Angular18\StudentManagementApp\StudentManagementAPI\StudentAdmission\obj\Debug\net8.0\StudentAdmission.genruntimeconfig.cache
 C:\Users\divyansh.chauhan\Desktop\DC\Angular+.NET+MSSQL\Angular18\StudentManagementApp\StudentManagementAPI\StudentAdmission\obj\Debug\net8.0\ref\StudentAdmission.dll
+C:\Users\divyansh.chauhan\Desktop\DC\Angular+.NET+MSSQL\Angular18\StudentManagementApp\StudentManagementAPI\StudentAdmission\bin\Debug\net8.0\Consul.dll
+C:\Users\divyansh.chauhan\Desktop\DC\Angular+.NET+MSSQL\Angular18\StudentManagementApp\StudentManagementAPI\StudentAdmission\bin\Debug\net8.0\Newtonsoft.Json.dll

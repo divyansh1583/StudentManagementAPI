@@ -1,6 +1,7 @@
 
 using Ocelot.DependencyInjection;
 using Ocelot.Middleware;
+using Ocelot.Provider.Consul;
 
 namespace StudentApiGateway
 {
@@ -19,7 +20,7 @@ namespace StudentApiGateway
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
-            builder.Services.AddOcelot();
+            builder.Services.AddOcelot().AddConsul();
 
             var app = builder.Build();
 

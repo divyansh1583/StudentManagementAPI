@@ -3,8 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\divyansh.chauhan\\Desktop\\DC\\Angular\u002B.NET\u002BMSSQL\\Angular18\\StudentManagementApp\\StudentManagementAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{57DF25CA-8F8E-44DC-BF73-70467516D10B}|StudentAdmission\\StudentAdmission.csproj|c:\\users\\divyansh.chauhan\\desktop\\dc\\angular\u002B.net\u002Bmssql\\angular18\\studentmanagementapp\\studentmanagementapi\\studentadmission\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57DF25CA-8F8E-44DC-BF73-70467516D10B}|StudentAdmission\\StudentAdmission.csproj|solutionrelative:studentadmission\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5033A078-45D5-46F0-B0AA-BEC06AD6C750}|StudentApiGateway\\StudentApiGateway.csproj|c:\\users\\divyansh.chauhan\\desktop\\dc\\angular\u002B.net\u002Bmssql\\angular18\\studentmanagementapp\\studentmanagementapi\\studentapigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5033A078-45D5-46F0-B0AA-BEC06AD6C750}|StudentApiGateway\\StudentApiGateway.csproj|solutionrelative:studentapigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5033A078-45D5-46F0-B0AA-BEC06AD6C750}|StudentApiGateway\\StudentApiGateway.csproj|c:\\users\\divyansh.chauhan\\desktop\\dc\\angular\u002B.net\u002Bmssql\\angular18\\studentmanagementapp\\studentmanagementapi\\studentapigateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{5033A078-45D5-46F0-B0AA-BEC06AD6C750}|StudentApiGateway\\StudentApiGateway.csproj|solutionrelative:studentapigateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80310992-627A-45EB-8E01-B147EA7D702C}|StudentAttendance\\StudentAttendance.csproj|c:\\users\\divyansh.chauhan\\desktop\\dc\\angular\u002B.net\u002Bmssql\\angular18\\studentmanagementapp\\studentmanagementapi\\studentattendance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80310992-627A-45EB-8E01-B147EA7D702C}|StudentAttendance\\StudentAttendance.csproj|solutionrelative:studentattendance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80310992-627A-45EB-8E01-B147EA7D702C}|StudentAttendance\\StudentAttendance.csproj|c:\\users\\divyansh.chauhan\\desktop\\dc\\angular\u002B.net\u002Bmssql\\angular18\\studentmanagementapp\\studentmanagementapi\\studentattendance\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{80310992-627A-45EB-8E01-B147EA7D702C}|StudentAttendance\\StudentAttendance.csproj|solutionrelative:studentattendance\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57DF25CA-8F8E-44DC-BF73-70467516D10B}|StudentAdmission\\StudentAdmission.csproj|c:\\users\\divyansh.chauhan\\desktop\\dc\\angular\u002B.net\u002Bmssql\\angular18\\studentmanagementapp\\studentmanagementapi\\studentadmission\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{57DF25CA-8F8E-44DC-BF73-70467516D10B}|StudentAdmission\\StudentAdmission.csproj|solutionrelative:studentadmission\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5033A078-45D5-46F0-B0AA-BEC06AD6C750}|StudentApiGateway\\StudentApiGateway.csproj|c:\\users\\divyansh.chauhan\\desktop\\dc\\angular\u002B.net\u002Bmssql\\angular18\\studentmanagementapp\\studentmanagementapi\\studentapigateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5033A078-45D5-46F0-B0AA-BEC06AD6C750}|StudentApiGateway\\StudentApiGateway.csproj|solutionrelative:studentapigateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57DF25CA-8F8E-44DC-BF73-70467516D10B}|StudentAdmission\\StudentAdmission.csproj|c:\\users\\divyansh.chauhan\\desktop\\dc\\angular\u002B.net\u002Bmssql\\angular18\\studentmanagementapp\\studentmanagementapi\\studentadmission\\studentadmission.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{57DF25CA-8F8E-44DC-BF73-70467516D10B}|StudentAdmission\\StudentAdmission.csproj|solutionrelative:studentadmission\\studentadmission.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{57DF25CA-8F8E-44DC-BF73-70467516D10B}|StudentAdmission\\StudentAdmission.csproj|c:\\users\\divyansh.chauhan\\desktop\\dc\\angular\u002B.net\u002Bmssql\\angular18\\studentmanagementapp\\studentmanagementapi\\studentadmission\\controllers\\studentsadmissioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -13,14 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{80310992-627A-45EB-8E01-B147EA7D702C}|StudentAttendance\\StudentAttendance.csproj|c:\\users\\divyansh.chauhan\\desktop\\dc\\angular\u002B.net\u002Bmssql\\angular18\\studentmanagementapp\\studentmanagementapi\\studentattendance\\controllers\\studentsattendancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{80310992-627A-45EB-8E01-B147EA7D702C}|StudentAttendance\\StudentAttendance.csproj|solutionrelative:studentattendance\\controllers\\studentsattendancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5033A078-45D5-46F0-B0AA-BEC06AD6C750}|StudentApiGateway\\StudentApiGateway.csproj|c:\\users\\divyansh.chauhan\\desktop\\dc\\angular\u002B.net\u002Bmssql\\angular18\\studentmanagementapp\\studentmanagementapi\\studentapigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5033A078-45D5-46F0-B0AA-BEC06AD6C750}|StudentApiGateway\\StudentApiGateway.csproj|solutionrelative:studentapigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5033A078-45D5-46F0-B0AA-BEC06AD6C750}|StudentApiGateway\\StudentApiGateway.csproj|c:\\users\\divyansh.chauhan\\desktop\\dc\\angular\u002B.net\u002Bmssql\\angular18\\studentmanagementapp\\studentmanagementapi\\studentapigateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{5033A078-45D5-46F0-B0AA-BEC06AD6C750}|StudentApiGateway\\StudentApiGateway.csproj|solutionrelative:studentapigateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5033A078-45D5-46F0-B0AA-BEC06AD6C750}|StudentApiGateway\\StudentApiGateway.csproj|c:\\users\\divyansh.chauhan\\desktop\\dc\\angular\u002B.net\u002Bmssql\\angular18\\studentmanagementapp\\studentmanagementapi\\studentapigateway\\studentapigateway.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
@@ -34,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,7 +62,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "StudentsAdmissionController.cs",
               "DocumentMoniker": "C:\\Users\\divyansh.chauhan\\Desktop\\DC\\Angular\u002B.NET\u002BMSSQL\\Angular18\\StudentManagementApp\\StudentManagementAPI\\StudentAdmission\\Controllers\\StudentsAdmissionController.cs",
               "RelativeDocumentMoniker": "StudentAdmission\\Controllers\\StudentsAdmissionController.cs",
@@ -55,46 +75,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "StudentsAttendanceController.cs",
               "DocumentMoniker": "C:\\Users\\divyansh.chauhan\\Desktop\\DC\\Angular\u002B.NET\u002BMSSQL\\Angular18\\StudentManagementApp\\StudentManagementAPI\\StudentAttendance\\Controllers\\StudentsAttendanceController.cs",
               "RelativeDocumentMoniker": "StudentAttendance\\Controllers\\StudentsAttendanceController.cs",
               "ToolTip": "C:\\Users\\divyansh.chauhan\\Desktop\\DC\\Angular\u002B.NET\u002BMSSQL\\Angular18\\StudentManagementApp\\StudentManagementAPI\\StudentAttendance\\Controllers\\StudentsAttendanceController.cs",
               "RelativeToolTip": "StudentAttendance\\Controllers\\StudentsAttendanceController.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAA1wCsAAAAAAAAA",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwCsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-10T08:13:11.577Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "ocelot.json",
               "DocumentMoniker": "C:\\Users\\divyansh.chauhan\\Desktop\\DC\\Angular\u002B.NET\u002BMSSQL\\Angular18\\StudentManagementApp\\StudentManagementAPI\\StudentApiGateway\\ocelot.json",
               "RelativeDocumentMoniker": "StudentApiGateway\\ocelot.json",
               "ToolTip": "C:\\Users\\divyansh.chauhan\\Desktop\\DC\\Angular\u002B.NET\u002BMSSQL\\Angular18\\StudentManagementApp\\StudentManagementAPI\\StudentApiGateway\\ocelot.json",
               "RelativeToolTip": "StudentApiGateway\\ocelot.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-09-10T08:58:52.87Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\divyansh.chauhan\\Desktop\\DC\\Angular\u002B.NET\u002BMSSQL\\Angular18\\StudentManagementApp\\StudentManagementAPI\\StudentApiGateway\\Program.cs",
               "RelativeDocumentMoniker": "StudentApiGateway\\Program.cs",
               "ToolTip": "C:\\Users\\divyansh.chauhan\\Desktop\\DC\\Angular\u002B.NET\u002BMSSQL\\Angular18\\StudentManagementApp\\StudentManagementAPI\\StudentApiGateway\\Program.cs",
               "RelativeToolTip": "StudentApiGateway\\Program.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAwCYAAAAdAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAiwBYAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-10T09:23:27.228Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "StudentApiGateway.http",
               "DocumentMoniker": "C:\\Users\\divyansh.chauhan\\Desktop\\DC\\Angular\u002B.NET\u002BMSSQL\\Angular18\\StudentManagementApp\\StudentManagementAPI\\StudentApiGateway\\StudentApiGateway.http",
               "RelativeDocumentMoniker": "StudentApiGateway\\StudentApiGateway.http",
@@ -107,15 +127,80 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\divyansh.chauhan\\Desktop\\DC\\Angular\u002B.NET\u002BMSSQL\\Angular18\\StudentManagementApp\\StudentManagementAPI\\StudentApiGateway\\appsettings.json",
               "RelativeDocumentMoniker": "StudentApiGateway\\appsettings.json",
               "ToolTip": "C:\\Users\\divyansh.chauhan\\Desktop\\DC\\Angular\u002B.NET\u002BMSSQL\\Angular18\\StudentManagementApp\\StudentManagementAPI\\StudentApiGateway\\appsettings.json",
               "RelativeToolTip": "StudentApiGateway\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-09-10T09:44:20.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\divyansh.chauhan\\Desktop\\DC\\Angular\u002B.NET\u002BMSSQL\\Angular18\\StudentManagementApp\\StudentManagementAPI\\StudentAdmission\\Program.cs",
+              "RelativeDocumentMoniker": "StudentAdmission\\Program.cs",
+              "ToolTip": "C:\\Users\\divyansh.chauhan\\Desktop\\DC\\Angular\u002B.NET\u002BMSSQL\\Angular18\\StudentManagementApp\\StudentManagementAPI\\StudentAdmission\\Program.cs",
+              "RelativeToolTip": "StudentAdmission\\Program.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAApwDsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T13:17:27.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\divyansh.chauhan\\Desktop\\DC\\Angular\u002B.NET\u002BMSSQL\\Angular18\\StudentManagementApp\\StudentManagementAPI\\StudentAttendance\\Program.cs",
+              "RelativeDocumentMoniker": "StudentAttendance\\Program.cs",
+              "ToolTip": "C:\\Users\\divyansh.chauhan\\Desktop\\DC\\Angular\u002B.NET\u002BMSSQL\\Angular18\\StudentManagementApp\\StudentManagementAPI\\StudentAttendance\\Program.cs",
+              "RelativeToolTip": "StudentAttendance\\Program.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAUwCwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T13:17:46.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\divyansh.chauhan\\Desktop\\DC\\Angular\u002B.NET\u002BMSSQL\\Angular18\\StudentManagementApp\\StudentManagementAPI\\StudentAttendance\\appsettings.json",
+              "RelativeDocumentMoniker": "StudentAttendance\\appsettings.json",
+              "ToolTip": "C:\\Users\\divyansh.chauhan\\Desktop\\DC\\Angular\u002B.NET\u002BMSSQL\\Angular18\\StudentManagementApp\\StudentManagementAPI\\StudentAttendance\\appsettings.json",
+              "RelativeToolTip": "StudentAttendance\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-10T13:29:56.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentAdmission.http",
+              "DocumentMoniker": "C:\\Users\\divyansh.chauhan\\Desktop\\DC\\Angular\u002B.NET\u002BMSSQL\\Angular18\\StudentManagementApp\\StudentManagementAPI\\StudentAdmission\\StudentAdmission.http",
+              "RelativeDocumentMoniker": "StudentAdmission\\StudentAdmission.http",
+              "ToolTip": "C:\\Users\\divyansh.chauhan\\Desktop\\DC\\Angular\u002B.NET\u002BMSSQL\\Angular18\\StudentManagementApp\\StudentManagementAPI\\StudentAdmission\\StudentAdmission.http",
+              "RelativeToolTip": "StudentAdmission\\StudentAdmission.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-09-10T13:37:47.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\divyansh.chauhan\\Desktop\\DC\\Angular\u002B.NET\u002BMSSQL\\Angular18\\StudentManagementApp\\StudentManagementAPI\\StudentAdmission\\appsettings.json",
+              "RelativeDocumentMoniker": "StudentAdmission\\appsettings.json",
+              "ToolTip": "C:\\Users\\divyansh.chauhan\\Desktop\\DC\\Angular\u002B.NET\u002BMSSQL\\Angular18\\StudentManagementApp\\StudentManagementAPI\\StudentAdmission\\appsettings.json",
+              "RelativeToolTip": "StudentAdmission\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-10T13:38:58.168Z",
               "EditorCaption": ""
             }
           ]

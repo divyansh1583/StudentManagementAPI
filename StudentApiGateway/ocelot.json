@@ -2,7 +2,7 @@
   "GlobalConfiguration": {
     "ServiceDiscoveryProvider": {
       "Host": "localhost",
-      "Port": 9500
+      "Port": 8500
     }
   },
   "Routes": [

@@ -1,4 +1,10 @@
 ﻿{
+  "GlobalConfiguration": {
+    "ServiceDiscoveryProvider": {
+      "Host": "localhost",
+      "Port": 8500
+    }
+  },
   "Routes": [
     {
       "UpstreamHttpMethod": [ "Get" ],
@@ -13,7 +19,7 @@
       "DownstreamPathTemplate": "/api/StudentsAdmission"
     },
     {
-      "UpstreamHttpMethod": [ "Post" ],
+      "UpstreamHttpMethod": [ "Get" ],
       "UpstreamPathTemplate": "/ApiGateway/StudentsAdmission/{id}",
       "DownstreamScheme": "https",
       "DownstreamHostAndPorts": [

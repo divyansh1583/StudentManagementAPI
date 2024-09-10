@@ -41,3 +41,5 @@ C:\Users\divyansh.chauhan\Desktop\DC\Angular+.NET+MSSQL\Angular18\StudentManagem
 C:\Users\divyansh.chauhan\Desktop\DC\Angular+.NET+MSSQL\Angular18\StudentManagementApp\StudentManagementAPI\StudentApiGateway\obj\Debug\net8.0\StudentApiGateway.pdb
 C:\Users\divyansh.chauhan\Desktop\DC\Angular+.NET+MSSQL\Angular18\StudentManagementApp\StudentManagementAPI\StudentApiGateway\obj\Debug\net8.0\StudentApiGateway.genruntimeconfig.cache
 C:\Users\divyansh.chauhan\Desktop\DC\Angular+.NET+MSSQL\Angular18\StudentManagementApp\StudentManagementAPI\StudentApiGateway\obj\Debug\net8.0\ref\StudentApiGateway.dll
+C:\Users\divyansh.chauhan\Desktop\DC\Angular+.NET+MSSQL\Angular18\StudentManagementApp\StudentManagementAPI\StudentApiGateway\bin\Debug\net8.0\Consul.dll
+C:\Users\divyansh.chauhan\Desktop\DC\Angular+.NET+MSSQL\Angular18\StudentManagementApp\StudentManagementAPI\StudentApiGateway\bin\Debug\net8.0\Ocelot.Provider.Consul.dll
